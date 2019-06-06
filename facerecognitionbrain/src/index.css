@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "CourierNew", Courier, monospace;
+  background: linear-gradient(to left, rgb(0, 247, 247) 0%, rgb(245, 245, 245)100%);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ }
+
+button{
+  cursor: pointer;
+} 
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
